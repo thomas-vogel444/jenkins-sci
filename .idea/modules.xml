@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jenkins-sci.iml" filepath="$PROJECT_DIR$/jenkins-sci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jenkins-sci.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jenkins-sci.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jenkins-sci.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jenkins-sci.test.iml" />
+    </modules>
+  </component>
+</project>
