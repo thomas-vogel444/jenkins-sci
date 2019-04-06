@@ -1,7 +1,7 @@
 def gitUrl = "git://github.com/thomas-vogel444/jenkins-sci"
 
 
-job('test-job') {
+job('testJob') {
     scm {
         git(gitUrl)
     }
